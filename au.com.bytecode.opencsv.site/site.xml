@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="OpenCSV update site" url="www.stefanocottafavi/eclipse/update/opencsv">
+      OpenCSV update site
+   </description>
+   <feature url="features/au.com.bytecode.opencsv.feature_2.3.0.201303190107.jar" id="au.com.bytecode.opencsv.feature" version="2.3.0.201303190107"/>
+</site>
